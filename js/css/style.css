@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+.outer-tab {
+	float:left;
+	width:790px;
+	margin-top:10px;
+}
+.plugin-name {
+	float:left;
+	width:790px;
+	margin-top:10px;
+	margin-bottom:15px;
+	font-family:"Trebuchet MS", Arial, verdana, sans-serif;
+	font-size:18px;
+}
+.imgouter {
+	float:left;
+	width:700px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.orginalimg {
+	float:left;
+	width:350px;
+	text-align:right;
+}
+.mouseoverimg {
+	float:left;
+	width:350px;
+	text-align:left;
+}
+.success-fade {
+	color: #996633;
+	background-color: #FFFFE0;
+	border-color: #E6DB55;
+	border-radius: 3px 3px 3px 3px;
+	border-style: solid;
+	border-width: 1px;
+	float: left;
+	margin:5px 0 15px;
+	width: 763px;
+	padding:10px;
+	text-align:center;
+}
+
+.flip-heading-free {
+    border: 1px solid #E6E6E6;
+    border-radius: 3px 3px 3px 3px;
+    float: left;
+    margin: 5px 0 15px;
+    width: 763px;
+	padding:10px;
+}
+
+.updated-fade-free {
+    background-color: #FFFFE0;
+    border-color: #E6DB55;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    float: left;
+    margin: 5px 0 15px;
+    width: 763px;
+	padding:10px;
+}
